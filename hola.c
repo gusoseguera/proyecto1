@@ -1,6 +1,7 @@
+#include <stdio.h>
 main(){
 
 printf ("Hola edmundo");
-System "pause";
+return 0;
 
 }
